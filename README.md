@@ -1,5 +1,6 @@
 # nim_selenium_sample
-https://img.shields.io/badge/nim-v1.4.0-ff7964.svg?style=for-the-badge
+![](https://img.shields.io/badge/nim-v1.4.0-ff7964.svg?style=for-the-badge)
+
 NimでSeleniumをするサンプルコード
 
 ### 事前準備
